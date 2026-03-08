@@ -1,35 +1,36 @@
-GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+# ASHI-CORE UNIVERSAL INVARIANT LICENSE
+# Copyright (c) 2026 Davide [Inserisci Tuo Cognome]
 
-Copyright (C) 2026 ASHI-CORE: Isomorphic Logic & State Transition.
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Preamble
+--------------------------------------------------------------------------------
+SUMMARY OF THE LICENSE:
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
 
-The GNU General Public License is a free, copyleft license for
-software and other kinds of works.
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and 
+  indicate if changes were made. You may do so in any reasonable manner, but not 
+  in any way that suggests the licensor endorses you or your use.
 
-This license applies to the ASHI-CORE Engine, the K-Signature methodology, 
-and the associated "Job Experiment" datasets and logical operators.
+--------------------------------------------------------------------------------
+SPECIFIC ATTRIBUTION CLAUSE FOR THE ASHI-CORE PROJECT:
 
-1. Definitions.
-"The Work" refers to the Ashi-Core algorithm, the 1.44 Chandrasekhar 
-Logical Limit implementation, and all scale-invariance testing scripts.
+Any academic, scientific, or commercial use of the data, constants, or 
+methodologies contained in this repository—specifically referring to:
 
-2. Source Code.
-The "source code" for a work means the preferred form of the work 
-for making modifications to it.
+1. The Universal Singularity Threshold (1.44)
+2. The Biometric Invariance Constant (5.12%)
+3. The Fractal Neuro-Astrophysical Symmetry Model
 
-3. Attribution.
-Any distribution of this work or derivative works must provide clear 
-and prominent attribution to the original author, citing the 
-"Universal Signature of State Transition" and the ASHI-CORE framework.
+MUST explicitly cite the author (Davide [Inserisci Tuo Cognome]) and the 
+"ASHI-CORE Invariant" as the original discovery and primary source.
 
-[... Il resto del testo standard GPLv3 segue qui ...]
+The 5.12% Law is a registered biometric state constant identified through 
+the ASHI-CORE predictive model. Unauthorized use without attribution is 
+a violation of this license.
+--------------------------------------------------------------------------------
 
-NO WARRANTY
-THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY 
-APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT 
-HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT 
-WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED.
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by/4.0/
