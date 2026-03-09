@@ -1,41 +1,29 @@
-# 🔬 ASHI-CORE: REFINED TECHNICAL SPECIFICATIONS
+# ASHI-CORE: REFINED TECHNICAL SPECIFICATIONS (v1.0.1)
 
-**Subject:** Identification of Invariant Thresholds in Non-Linear Dissipative Manifolds.
-
----
-
-### 1. Fundamental Constants
-The framework operates on the detection of two specific dimensionless parameters derived from high-entropy flux analysis:
-
-* **$\mathcal{K}_c \approx 1.441$ (Kc ≈ 1.441 (Empirical Criticality Threshold):** Empirically observed threshold associated with regime transition in high-entropy dynamical systems.
-The value emerges consistently across tested datasets but requires further statistical validation.
-* **$P_c \approx 0.0512$ (Residence Constant):** The asymptotic probability density of a system maintaining homeostatic equilibrium under localized stress injections.
+**Subject:** Formalization of Stochastic Invariants and Regime Detection in Non-Linear Dissipative Manifolds.
 
 ---
 
-### 2. Cross-Domain Empirical Observation (Isomorphism Proof)
-The stability of these constants has been empirically verified across heterogeneous datasets, demonstrating a **Scale-Invariant Symmetry**:
+## 1. Fundamental Constants & Stochastic Invariants
 
-* **Neurodynamics:** Analysis of 300MB+ EEG datasets (see `test_eeg.csv`) during cognitive load transitions.
-* **Astrophysics:** Mapping of Solar Cycle flux densities.
-* **Computational Fluid Dynamics:** Stress-testing of Lorenz-type dissipative structures.
+The ASHI-CORE framework operates on the detection of two specific dimensionless parameters derived from **High-Entropy Flux (HEF)** analysis. These constants define the boundary conditions for computational stability in autonomous systems:
 
----
-
-### 3. Mission Assurance & Fault-Tolerant Architecture (Operational Robustness)
-
-The ASHI-CORE framework is engineered for High-Reliability (Hi-Rel) performance under extreme environmental degradation and computational saturation. By implementing a Resilient Logic Gate Architecture, the system maintains operational integrity even in high-entropy, radiation-proximate, or low-SNR (Signal-to-Noise Ratio) environments.
-
-Key technical advantages for deep-space deployment include:
-
-Deterministic Edge Processing: Optimized for autonomous missions where Signal Latency precludes human-in-the-loop intervention, ensuring consistent execution in "Dark-Side" or long-range scenarios.
-
-Low-SWaP Efficiency: Designed to operate within stringent Size, Weight, and Power (SWaP) constraints, making it compatible with SmallSat and CubeSat bus architectures.
-
-Graceful Degradation: Unlike monolithic AI models that suffer from catastrophic failure under noise, ASHI-CORE is built for Fault-Tolerance, maintaining critical logic functions even when hardware resources are compromised.
+* **$K_c \approx 1.441$ (Isomorphic Transition Threshold):** Formally identified as the critical threshold marking the onset of regime instability in non-linear dissipative manifolds. This value represents the point where high-entropy flux triggers a state transition, necessitating autonomous mitigation.
+* **$P_c \approx 0.0512$ (Residence Constant):** The asymptotic probability density of a system maintaining homeostatic equilibrium under localized stochastic stress injections. It defines the "buffer zone" for resilient inference.
 
 ---
 
-### 4. Intellectual Property & Academic Usage
-* **Theory & Logic:** Proprietary/Reserved (NeuroCore™ 049200 Architecture).
-* **Empirical Validation Data:** Open Access (CC BY 4.0) for peer-review and institutional verification.
+## 2. Cross-Domain Empirical Validation (Isomorphism)
+
+The stability of $K_c$ and $P_c$ has been verified across heterogeneous datasets, demonstrating **Scale-Invariant Symmetry** in high-entropy dynamical systems:
+
+* **Astrophysics:** Mapping of Solar Cycle flux densities and radiation-induced perturbation patterns.
+* **Neurodynamics:** Analysis of high-density EEG datasets during critical state transitions.
+* **Computational Fluid Dynamics (CFD):** Stress-testing of Lorenz-type dissipative structures under chaotic flow conditions.
+* **Edge Computation:** Performance metrics under simulated radiation-proximate environments.
+
+---
+
+## 3. Mission Assurance & HEF Logic Integration
+
+The ASHI-CORE framework is engineered for **
