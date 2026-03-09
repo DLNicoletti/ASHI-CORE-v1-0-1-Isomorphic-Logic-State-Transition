@@ -26,4 +26,23 @@ The stability of $K_c$ and $P_c$ has been verified across heterogeneous datasets
 
 ## 3. Mission Assurance & HEF Logic Integration
 
-The ASHI-CORE framework is engineered for **
+The ASHI-CORE framework is engineered for **High-Reliability (Hi-Rel)** performance under extreme environmental degradation and computational saturation. 
+
+### Key Technical Advantages for Aerospace Deployment:
+
+* **HEF Logic Mitigation:** Integrated protocols to maintain logic-gate integrity even when hardware suffers from radiation-induced stochastic disturbances (rather than simple bit-errors).
+* **Deterministic Edge Inference:** Neural circuit logic optimized for autonomous predictive computation, minimizing dependency on Earth-link telemetry and long-range signal latency.
+* **Low-SWaP Efficiency:** Designed for stringent Size, Weight, and Power (SWaP) constraints, ensuring compatibility with SmallSat and CubeSat bus architectures.
+* **Fault-Tolerant Manifolds:** Unlike monolithic AI models, ASHI-CORE utilizes stochastic regime detection to ensure graceful degradation under hardware compromise.
+
+---
+
+## 4. Intellectual Property & Licensing
+
+* **Framework Theory:** NeuroCore™ 049200 Architecture (Proprietary/Reserved).
+* **Empirical Validation Data:** Open Access (CC BY 4.0) for institutional verification.
+* **Software Components:** GPLv3.
+
+---
+
+**Intended Audience:** Aerospace entities (NASA, SpaceX, ESA), researchers in complex systems, and developers of autonomous deep-space instrumentation.
