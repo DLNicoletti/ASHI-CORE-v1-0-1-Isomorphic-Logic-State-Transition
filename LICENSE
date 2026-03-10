@@ -23,9 +23,9 @@ Users of this framework, particularly those applying the identified **Dimensionl
 * **Stochastic Residence Constant ($P_c$):** The asymptotic mean of $0.0512$ identified in homeostatic neurodynamic state-space.
 
 **Formal Citation Format:**
-> Nicoletti, D. L. (2026). ASHI-CORE: Manifold Dynamics and Phase Transitions in Dissipative Systems. Zenodo. https://doi.org/[INSERIRE_IL_TUO_DOI_QUI]
+> Nicoletti, D. L. (2026). ASHI-CORE: Manifold Dynamics and Phase Transitions in Dissipative Systems. Zenodo. https://doi.org/[10.5281/zenodo.18937800]
 
 ---
 
-### 🛠 TECHNICAL CONTACT & COLLABORATION
+### TECHNICAL CONTACT & COLLABORATION
 This project is part of an independent research effort into **Self-Organized Criticality (SOC)** and **Non-Linear Dynamics**. The author welcomes peer-review, validation requests, and institutional collaboration from departments specializing in Systems Engineering, Astrophysics, and Computational Neuroscience.
